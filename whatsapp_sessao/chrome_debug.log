@@ -1,0 +1,26 @@
+[15444:18580:0505/162442.819:INFO:components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc:202] No machine level policy manager exists.
+[7008:8772:0505/162443.223:VERBOSE1:components\viz\service\main\viz_main_impl.cc:85] VizNullHypothesis is disabled (not a warning)
+[3228:5424:0505/162443.940:INFO:third_party\webrtc\system_wrappers\source\cpu_info.cc:56] Available number of cores: 4
+[11388:12388:0505/162444.542:INFO:third_party\webrtc\system_wrappers\source\cpu_info.cc:56] Available number of cores: 4
+[12704:20212:0505/162444.757:INFO:third_party\webrtc\system_wrappers\source\cpu_info.cc:56] Available number of cores: 4
+[10508:18684:0505/162446.209:INFO:third_party\webrtc\system_wrappers\source\cpu_info.cc:56] Available number of cores: 4
+[7008:10204:0505/162452.176:WARNING:ui\gl\angle_platform_impl.cc:54] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(139,3-70): warning X3557: loop only executes for 1 iteration(s), forcing loop to unroll
+
+[9828:17144:0505/162455.447:INFO:third_party\webrtc\system_wrappers\source\cpu_info.cc:56] Available number of cores: 4
+[372:19348:0505/162515.983:INFO:third_party\webrtc\system_wrappers\source\cpu_info.cc:56] Available number of cores: 4
+[15444:18580:0505/162530.999:WARNING:components\download\internal\background_service\controller_impl.cc:1187] Background download complete, client: 6, completion type: 0, file size:265059
+[15444:18580:0505/162531.206:WARNING:components\download\internal\background_service\controller_impl.cc:1187] Background download complete, client: 6, completion type: 0, file size:5159
+[15444:18580:0505/162532.564:WARNING:components\download\internal\background_service\controller_impl.cc:1187] Background download complete, client: 6, completion type: 0, file size:883094
+[15444:18580:0505/162533.135:WARNING:components\download\internal\background_service\controller_impl.cc:1187] Background download complete, client: 6, completion type: 0, file size:2200227
+[15444:18580:0505/162533.698:WARNING:components\download\internal\background_service\controller_impl.cc:1187] Background download complete, client: 6, completion type: 0, file size:45159
+[15444:18580:0505/162535.747:WARNING:components\download\internal\background_service\controller_impl.cc:1187] Background download complete, client: 6, completion type: 0, file size:2747170
+[15444:18580:0505/162535.757:WARNING:components\download\internal\background_service\controller_impl.cc:1187] Background download complete, client: 6, completion type: 0, file size:4680
+[15444:18580:0505/162537.119:WARNING:components\download\internal\background_service\controller_impl.cc:1187] Background download complete, client: 6, completion type: 0, file size:118577
+[15444:18580:0505/162556.121:INFO:CONSOLE:-1] "Service Worker is not responding.", source: https://web.whatsapp.com/sw.js (-1)
+[15444:18580:0505/162556.121:INFO:CONSOLE:-1] "Service Worker termination by a timeout timer was canceled because DevTools is attached.", source: https://web.whatsapp.com/sw.js (-1)
+[15444:18580:0505/162558.490:INFO:CONSOLE:157] "Event handler of 'x-storagemutated-1' event must be added on the initial evaluation of worker script.", source: https://static.whatsapp.net/rsrc.php/v4/yY/r/mkiNlxq8gdy.js (157)
+[9352:12332:0505/162644.971:VERBOSE1:components\viz\service\main\viz_main_impl.cc:85] VizNullHypothesis is disabled (not a warning)
+[15276:16224:0505/163204.759:WARNING:net\extras\sqlite\sqlite_persistent_store_backend_base.cc:176] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:226 to client_task_runner_.
+[15276:16224:0505/163204.770:WARNING:net\extras\sqlite\sqlite_persistent_store_backend_base.cc:176] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:226 to client_task_runner_.
+[15276:16224:0505/163204.770:WARNING:net\extras\sqlite\sqlite_persistent_store_backend_base.cc:176] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:226 to client_task_runner_.
